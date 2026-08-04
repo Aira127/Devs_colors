@@ -3,9 +3,9 @@
         {
             "medali": "https://raw.githubusercontent.com/DerelictJade/NeonLite/main/Assets/Sprites/MedalBlud.png",
             "stampi": "https://raw.githubusercontent.com/DerelictJade/NeonLite/main/Assets/Sprites/MikeyBlud.png",
-            "crysti": "https://raw.githubusercontent.com/Aira127/Devs_colors/refs/heads/main/Crystal%20dev.png",
+            "crysti": "https://raw.githubusercontent.com/Aira127/Devs_colors/refs/heads/main/CrystaDev.png",
             "popup": "NLEM/RESULTS_MEDAL_DEV",
-            "rank": -25,
+            "rank": 125,
             "color": "#ff0000",
             "hidden": false
         }
