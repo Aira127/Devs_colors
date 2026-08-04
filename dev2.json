@@ -1,11 +1,11 @@
 {
     "_metadata": [
         {
-            "medali": "https://raw.githubusercontent.com/Aira127/Devs_colors/refs/heads/main/Crystal%20dev.pngg",
-            "stampi": "https://raw.githubusercontent.com/Aira127/Devs_colors/refs/heads/main/Crystal%20dev.png",
+            "medali": "https://raw.githubusercontent.com/DerelictJade/NeonLite/main/Assets/Sprites/MedalBlud.png",
+            "stampi": "https://raw.githubusercontent.com/DerelictJade/NeonLite/main/Assets/Sprites/MikeyBlud.png",
             "crysti": "https://raw.githubusercontent.com/Aira127/Devs_colors/refs/heads/main/Crystal%20dev.png",
             "popup": "NLEM/RESULTS_MEDAL_DEV",
-            "rank": 150,
+            "rank": -25,
             "color": "#ff0000",
             "hidden": false
         }
