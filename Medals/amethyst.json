@@ -1,0 +1,376 @@
+{
+    "_metadata": [
+        {
+            "medali": "https://raw.githubusercontent.com/Faustas156/NeonLite/refs/heads/main/UnityProject/Assets/Sprites/MedalAmethyst.png",
+            "stampi": "https://raw.githubusercontent.com/DerelictJade/NeonLite/main/Assets/Sprites/MikeyBlud.png",
+            "crysti": "https://raw.githubusercontent.com/Faustas156/NeonLite/refs/heads/main/UnityProject/Assets/Sprites/CrystalAmethyst.png",
+            "popup": "NLEM/RESULTS_MEDAL_AMETHYST",
+            "rank": 163,
+            "color": "#ff00ff",
+            "hidden": false
+        }
+    ],
+  "TUT_MOVEMENT": [
+        17899999
+    ],
+    "TUT_SHOOTINGRANGE": [
+        6799999
+    ],
+    "SLUGGER": [
+        6999999
+    ],
+    "TUT_FROG": [
+        9199999
+    ],
+    "TUT_JUMP": [
+        14849999
+    ],
+    "GRID_TUT_BALLOON": [
+        15599999
+    ],
+    "TUT_BOMB2": [
+        8449999
+    ],
+    "TUT_BOMBJUMP": [
+        10649999
+    ],
+    "TUT_FASTTRACK": [
+        20999999
+    ],
+    "GRID_PORT": [
+        19459999
+    ],
+    "GRID_PAGODA": [
+        15249999
+    ],
+    "TUT_RIFLE": [
+        5950999
+    ],
+    "TUT_RIFLEJOCK": [
+        9199999
+    ],
+    "TUT_DASHENEMY": [
+        11499999
+    ],
+    "GRID_JUMPDASH": [
+        9499999
+    ],
+    "GRID_SMACKDOWN": [
+        9799999
+    ],
+    "GRID_MEATY_BALLOONS": [
+        13549999
+    ],
+    "GRID_FAST_BALLOON": [
+        21649999
+    ],
+    "GRID_DRAGON2": [
+        14999999
+    ],
+    "GRID_DASHDANCE": [
+        15749999
+    ],
+    "TUT_GUARDIAN": [
+        19679999
+    ],
+    "TUT_UZI": [
+        13899999
+    ],
+    "TUT_JUMPER": [
+        12599999
+    ],
+    "TUT_BOMB": [
+        12199999
+    ],
+    "GRID_DESCEND": [
+        9499999
+    ],
+    "GRID_STAMPEROUT": [
+        10879999
+    ],
+    "GRID_CRUISE": [
+        14649999
+    ],
+    "GRID_SPRINT": [
+        15999999
+    ],
+    "GRID_MOUNTAIN": [
+        15999999
+    ],
+    "GRID_SUPERKINETIC": [
+        14299999
+    ],
+    "GRID_ARRIVAL": [
+        20849999
+    ],
+    "FLOATING": [
+        24299999
+    ],
+    "GRID_BOSS_YELLOW": [
+        33899999
+    ],
+    "GRID_HOPHOP": [
+        16499999
+    ],
+    "GRID_RINGER_TUTORIAL": [
+        12879999
+    ],
+    "GRID_RINGER_EXPLORATION": [
+        11449999
+    ],
+    "GRID_HOPSCOTCH": [
+        11179999
+    ],
+    "GRID_BOOM": [
+        15499999
+    ],
+    "GRID_SNAKE_IN_MY_BOOT": [
+        6899999
+    ],
+    "GRID_FLOCK": [
+        12099999
+    ],
+    "GRID_BOMBS_AHOY": [
+        6549999
+    ],
+    "GRID_ARCS": [
+        16399999
+    ],
+    "GRID_APARTMENT": [
+        12879999
+    ],
+    "TUT_TRIPWIRE": [
+        21999999
+    ],
+    "GRID_TANGLED": [
+        12349999
+    ],
+    "GRID_HUNT": [
+        19499999
+    ],
+    "GRID_CANNONS": [
+        23999999
+    ],
+    "GRID_FALLING": [
+        19149999
+    ],
+    "TUT_SHOCKER2": [
+        27299999
+    ],
+    "TUT_SHOCKER": [
+        20999999
+    ],
+    "GRID_PREPARE": [
+        25249999
+    ],
+    "GRID_TRIPMAZE": [
+        27899999
+    ],
+    "GRID_RACE": [
+        22249999
+    ],
+    "TUT_FORCEFIELD2": [
+        14499999
+    ],
+    "GRID_SHIELD": [
+        15399999
+    ],
+    "SA L VAGE2": [
+        12299999
+    ],
+    "GRID_VERTICAL": [
+        23879999
+    ],
+    "GRID_MINEFIELD": [
+        11599999
+    ],
+    "TUT_MIMIC": [
+        9349999
+    ],
+    "GRID_MIMICPOP": [
+        18999999
+    ],
+    "GRID_SWARM": [
+        7499999
+    ],
+    "GRID_SWITCH": [
+        16749999
+    ],
+    "GRID_TRAPS2": [
+        22999999
+    ],
+    "TUT_ROCKETJUMP": [
+        11649999
+    ],
+    "TUT_ZIPLINE": [
+        11579999
+    ],
+    "GRID_CLIMBANG": [
+        15349999
+    ],
+    "GRID_ROCKETUZI": [
+        36499999
+    ],
+    "GRID_CRASHLAND": [
+        26379999
+    ],
+    "GRID_ESCALATE": [
+        22499999
+    ],
+    "GRID_SPIDERCLAUS": [
+        37999999
+    ],
+    "GRID_FIRECRACKER_2": [
+        30579999
+    ],
+    "GRID_SPIDERMAN": [
+        21499999
+    ],
+    "GRID_DESTRUCTION": [
+        24999999
+    ],
+    "GRID_HEAT": [
+        23999999
+    ],
+    "GRID_BOLT": [
+        25599999
+    ],
+    "GRID_PON": [
+        25799999
+    ],
+    "GRID_CHARGE": [
+        29799999
+    ],
+    "GRID_MIMICFINALE": [
+        16749999
+    ],
+    "GRID_BARRAGE": [
+        28299999
+    ],
+    "GRID_1GUN": [
+        31999999
+    ],
+    "GRID_HECK": [
+        20399999
+    ],
+    "GRID_ANTFARM": [
+        31179999
+    ],
+    "GRID_FORTRESS": [
+        24199999
+    ],
+    "GRID_GODTEMPLE_ENTRY": [
+        51499999
+    ],
+    "GRID_BOSS_GODSDEATHTEMPLE": [
+        59999999
+    ],
+    "GRID_EXTERMINATOR": [
+        7499999
+    ],
+    "GRID_FEVER": [
+        5299999
+    ],
+    "GRID_SKIPSLIDE": [
+        8699999
+    ],
+    "GRID_CLOSER": [
+        10899999
+    ],
+    "GRID_HIKE": [
+        7099999
+    ],
+    "GRID_SKIP": [
+        11889999
+    ],
+    "GRID_CEILING": [
+        14799999
+    ],
+    "GRID_BOOP": [
+        22899999
+    ],
+    "GRID_TRIPRAP": [
+        9849999
+    ],
+    "GRID_ZIPRAP": [
+        12999999
+    ],
+    "TUT_ORIGIN": [
+        18999999
+    ],
+    "GRID_BOSS_RAPTURE": [
+        118999999
+    ],
+    "SIDEQUEST_OBSTACLE_PISTOL": [
+        14449999
+    ],
+    "SIDEQUEST_OBSTACLE_PISTOL_SHOOT": [
+        24599999
+    ],
+    "SIDEQUEST_OBSTACLE_MACHINEGUN": [
+        27499999
+    ],
+    "SIDEQUEST_OBSTACLE_RIFLE_2": [
+        12599999
+    ],
+    "SIDEQUEST_OBSTACLE_UZI2": [
+        38299999
+    ],
+    "SIDEQUEST_OBSTACLE_SHOTGUN": [
+        34559999
+    ],
+    "SIDEQUEST_OBSTACLE_ROCKETLAUNCHER": [
+        35199999
+    ],
+    "SIDEQUEST_RAPTURE_QUEST": [
+        1469999
+    ],
+    "SIDEQUEST_DODGER": [
+        18799999
+    ],
+    "GRID_GLASSPATH": [
+        24399999
+    ],
+    "GRID_GLASSPATH2": [
+        18699999
+    ],
+    "GRID_HELLVATOR": [
+        21399999
+    ],
+    "GRID_GLASSPATH3": [
+        23949999
+    ],
+    "SIDEQUEST_ALL_SEEING_EYE": [
+        27399999
+    ],
+    "SIDEQUEST_RESIDENTSAWB": [
+        16699999
+    ],
+    "SIDEQUEST_RESIDENTSAW": [
+        16359999
+    ],
+    "SIDEQUEST_SUNSET_FLIP_POWERBOMB": [
+        36479999
+    ],
+    "GRID_BALLOONLAIR": [
+        19579999
+    ],
+    "SIDEQUEST_BARREL_CLIMB": [
+        35999999
+    ],
+    "SIDEQUEST_FISHERMAN_SUPLEX": [
+        37999999
+    ],
+    "SIDEQUEST_STF": [
+        16849999
+    ],
+    "SIDEQUEST_ARENASIXNINE": [
+        19399999
+    ],
+    "SIDEQUEST_ATTITUDE_ADJUSTMENT": [
+        40179999
+    ],
+    "SIDEQUEST_ROCKETGODZ": [
+        44299999
+    ]
+}
