@@ -260,10 +260,10 @@
         34810999
     ],
     "GRID_GODTEMPLE_ENTRY": [
-        116500999
+        76500999
     ],
     "GRID_BOSS_GODSDEATHTEMPLE": [
-        127169999
+        87169999
     ],
     "GRID_EXTERMINATOR": [
         20649999
@@ -293,13 +293,13 @@
         14319999
     ],
     "GRID_ZIPRAP": [
-        131330999
+        91330999
     ],
     "TUT_ORIGIN": [
-        128680999
+        88680999
     ],
     "GRID_BOSS_RAPTURE": [
-        147629999
+        107629999
     ],
     "SIDEQUEST_OBSTACLE_PISTOL": [
         19000999
@@ -371,6 +371,6 @@
         44000999
     ],
     "SIDEQUEST_ROCKETGODZ": [
-        60000099
+        60000999
     ]
 }
